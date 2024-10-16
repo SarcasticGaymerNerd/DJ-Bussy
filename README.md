@@ -10,6 +10,7 @@ DJ-Bussy is a Discord bot designed to enhance your music experience in voice cha
 - **Volume Control**: Adjust the volume of the bot to your liking.
 - **Pause/Resume/Stop**: Control playback with pause, resume, and stop commands.
 - **Help Command**: Get a list of available commands and their descriptions.
+- **Custom Icon**: Available with a custom icon and banner. 
 
 ## Commands
 
@@ -65,3 +66,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - [Discord.py](https://discordpy.readthedocs.io/en/stable/) for the Discord API wrapper.
 - [Spotipy](https://spotipy.readthedocs.io/en/2.19.0/) for Spotify API integration.
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) for downloading audio from YouTube.
+## Installation
+
+To install and invite the Discord bot to your server, click the following link: [Invite the Bot](https://discord.com/oauth2/authorize?client_id=1290878475489771582).
