@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore environment variables file
+.env
+
+# Ignore node_modules (if using Node.js)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore other files you don't want to track
+.DS_Store
